@@ -1,15 +1,23 @@
 =======
-TEXTILE
+TEXTILE (Tutorials for EXperimenTalist Interactive LEarning) in Data Science
 =======
 
+Tutorials and Modules for teaching experimentalists data science from a
+biological perspective.
 
-Add a short description here!
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+As a lab filled with mainly experimentalists, the Nance Lab uses data science
+to enhance our abilities. Because of this, we needed a way to train our
+experimentalists in how to use Data Science methods and tools that are most
+applicable to our work. So we started our TEXTILE program! This is our TEXTILE
+in
+
+Specifically, we have created approachable and accessible modules to teach Data
+Science from a Biological perspective.
 
 
 Note
