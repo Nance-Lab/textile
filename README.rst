@@ -11,10 +11,10 @@ Description
 ===========
 
 As a lab filled with mainly experimentalists, the Nance Lab uses data science
-to enhance our abilities. Because of this, we needed a way to train our
-experimentalists in how to use Data Science methods and tools that are most
-applicable to our work. So we started our TEXTILE program! This is our TEXTILE
-in
+to enhance our abilities. Because of this, we needed a effective way to train
+our experimentalists in how to use Data Science methods and tools that are most
+applicable to our work. So we started our TEXTILE program! This is the home
+repository for our TEXTILE in Data Science modules :)
 
 Specifically, we have created approachable and accessible modules to teach Data
 Science from a Biological perspective.
