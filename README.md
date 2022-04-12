@@ -3,8 +3,8 @@ TEXTILE (Tutorials for EXperimenTalist Interactive LEarning) in Data Science
 
 ![Logo](/images/logo.png)
 
-Tutorials and Modules for teaching experimentalists data science from a
-biological perspective.
+This TEXTILE curriculum teaches trainees data science from the biological
+perspective of brain cell shape quantification.
 
 What is TEXTILE?
 ===========
