@@ -98,11 +98,18 @@ Pathway.
 
 How to Use as an Instructor
 ===========
-Welcome to TEXTILE! For instructors we have two pathways to follow: teaching
+Welcome to TEXTILE! For instructors we have two pathways to follow: Teaching
 Current Modules and Developing Your Own Curriculum.
 
 Teaching Current Modules:
 ---
+1. Download the repository and plan to teach the Data Science Specific and
+Image Processing Specific pathways
+2. At least two days before the lesson, send out the pre-module activity
+3. Teaching the module live either by presenting the PPT file in earlier Modules
+ or completing a code-along with areas for students to ask questions and explore
+ independently
+4. After the lesson, send out the post-module reflection to students
 
 Developing Your Own Curriculum:
 ---
