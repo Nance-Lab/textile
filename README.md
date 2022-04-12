@@ -67,8 +67,8 @@ Check out the published slides from our presentation of TEXTILE at the
 American Institute for Chemical Engineers (AIChE) 2021 Conference:
 
 &ensp;&ensp; Helmbrecht H., Nance E., Textile: Tutorials in Experimentalist Interactive
-&ensp;&ensp;Learning. Computer Aids for Chemical Engineering. Paper # 449d
-&ensp;&ensp;(https://cache.org/sites/default/files/449d_2021TeachingDataScience_HelmbrechtNance.pdf)
+Learning. Computer Aids for Chemical Engineering. Paper # 449d
+(https://cache.org/sites/default/files/449d_2021TeachingDataScience_HelmbrechtNance.pdf)
 
 How to Use as a Student:
 ===========
