@@ -21,17 +21,24 @@ This is the home repository for our first TEXTILE course from Summer 2020.
 TEXTILE Curriculum
 ===========
 
-TEXTILE is a semi-linear, module based learning system!
+TEXTILE is a semi-linear, module-based learning system!
 
 What does that mean?
 
 /_semi-linear_/ We have three linear pathways to follow along with:
 
-1. **Research Lab Specific**: Motivates the greater TEXTILE work within the context
-of the Disease Directed Engineering Lab.
-2. **Data Science Specific**: The data science fundamentals needed to support the
-end learning goal
-3. **Image Processing Specific**: The cell segmentation and quantification lessons
+1. **Research Lab Specific** (purple, top row): Motivates the greater TEXTILE
+work within the context of the Disease Directed Engineering Lab.
+2. **Data Science Specific** (green, middle row): The data science fundamentals
+needed to support the end learning goal
+3. **Image Processing Specific** (blue, bottom row): The cell segmentation and
+quantification lessons
+
+/_module-based_/ Every lesson is a module with three parts:
+1. **pre-module**: A primer to get you thinking about the main lesson
+2. **main module**:The main educational lesson
+3. **post-module**:A reflection exercise with opportunities to explore more
+independently.
 
 
 ![Curriculum](/images/curriculum.png)
