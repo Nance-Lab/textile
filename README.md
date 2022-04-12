@@ -30,9 +30,17 @@ What does that mean?
 1. **Research Lab Specific** (purple, top row): Motivates the greater TEXTILE
 work within the context of the Disease Directed Engineering Lab.
 2. **Data Science Specific** (green, middle row): The data science fundamentals
-needed to support the end learning goal
+needed to support the end learning goal of image processing and train students
+on data management for experimentalists.
 3. **Image Processing Specific** (blue, bottom row): The cell segmentation and
 quantification lessons
+
+Based on the personal preference and previous experience of the trainee, the
+three pathways can be followed independently or together. Additionally, based on
+students' previous experience, the curriculum can begin at any point on the
+linear pathway. For example, if the student is familiar with data science but
+not image processing, they can learn only the image processing specific pathway
+and skip the data science specific pathway.
 
 /_module-based_/ Every lesson is a module with three parts:
 1. **pre-module**: A primer to get you thinking about the main lesson
@@ -40,8 +48,10 @@ quantification lessons
 3. **post-module**: A reflection exercise with opportunities to explore more
 independently.
 
-
 ![Curriculum](/images/curriculum.png)
+Image from Helmbrecht H., Nance E. Effective Laboratory Education with TEXTILE:
+Tutorials in EXperimentalisT Interactive LEarning. Journal of Chemical
+Engineering Education. **In Press**.
 
 See the Publication
 ===========
