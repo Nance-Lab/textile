@@ -25,7 +25,7 @@ TEXTILE is a semi-linear, module based learning system!
 
 What does that mean?
 
-/**semi-linear**/ We have three pathways to learn through
+/_semi-linear_/ We have three pathways to learn through
 
 
 ![Curriculum](/images/curriculum.png)
