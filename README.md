@@ -1,4 +1,3 @@
-=======
 TEXTILE (Tutorials for EXperimenTalist Interactive LEarning) in Data Science
 =======
 
