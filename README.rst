@@ -2,7 +2,7 @@
 TEXTILE (Tutorials for EXperimenTalist Interactive LEarning) in Data Science
 =======
 
-![Logo](logo.png)
+![Logo](/logo.png)
 
 Tutorials and Modules for teaching experimentalists data science from a
 biological perspective.
