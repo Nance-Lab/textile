@@ -19,10 +19,3 @@ repository for our TEXTILE in Data Science modules :)
 
 Specifically, we have created approachable and accessible modules to teach Data
 Science from a Biological perspective.
-
-
-Note
-====
-
-This project has been set up using PyScaffold 3.2.3. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
