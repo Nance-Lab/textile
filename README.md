@@ -63,6 +63,13 @@ Helmbrecht H., Nance E. Effective Laboratory Education with TEXTILE:
 Tutorials in EXperimentalisT Interactive LEarning. Journal of Chemical
 Engineering Education. _In Press_.
 
+Check out the published slides from our presentation of TEXTILE at the
+American Institute for Chemical Engineers (AIChE) 2021 Conference:
+
+Helmbrecht H., Nance E., Textile: Tutorials in Experimentalist Interactive
+Learning. Computer Aids for Chemical Engineering. Paper # 449d
+(https://cache.org/sites/default/files/449d_2021TeachingDataScience_HelmbrechtNance.pdf)
+
 How to Use as a Student:
 ===========
 
@@ -72,9 +79,8 @@ How to Use as an Instructor
 Teaching Current Modules:
 ---
 
-
-How to Use as an Instructor - Developing Your Own Curriculum:
-===========
+Developing Your Own Curriculum:
+---
 
 What's next for us?
 ===========
