@@ -51,7 +51,7 @@ independently.
 ![Curriculum](/images/curriculum.png)
 Image from Helmbrecht H., Nance E. Effective Laboratory Education with TEXTILE:
 Tutorials in EXperimentalisT Interactive LEarning. Journal of Chemical
-Engineering Education. **In Press**.
+Engineering Education. _In Press_.
 
 See the Publication
 ===========
