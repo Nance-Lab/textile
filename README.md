@@ -21,6 +21,13 @@ This is the home repository for our first TEXTILE course from Summer 2020.
 TEXTILE Curriculum
 ===========
 
+TEXTILE is a semi-linear, module based learning system!
+
+What does that mean?
+
+/**semi-linear**/ We have three pathways to learn through
+
+
 ![Curriculum](/images/curriculum.png)
 
 See the Publication
