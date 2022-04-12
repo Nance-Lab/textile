@@ -121,5 +121,5 @@ with a large number of features and application variability
 4. Follow the "How to Module" Module PPT to explore how to design learning
 objectives and create modules of your own
 
-What's next for us?
+What's next for TEXTILE?
 ===========
