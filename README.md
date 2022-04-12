@@ -52,7 +52,6 @@ independently.
 _TEXTILE Curriculum_. Demonstrates the three educational paths -
 Research Lab Specific (purple), Data Science Specific (green), and Image
 Processing Specific (blue). Entry points are displayed as doorways (yellow).
-
 Image from Helmbrecht H., Nance E. Effective Laboratory Education with TEXTILE:
 Tutorials in EXperimentalisT Interactive LEarning. Journal of Chemical
 Engineering Education. _In Press_.
