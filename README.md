@@ -36,8 +36,8 @@ quantification lessons
 
 /_module-based_/ Every lesson is a module with three parts:
 1. **pre-module**: A primer to get you thinking about the main lesson
-2. **main module**:The main educational lesson
-3. **post-module**:A reflection exercise with opportunities to explore more
+2. **main module**: The main educational lesson
+3. **post-module**: A reflection exercise with opportunities to explore more
 independently.
 
 
