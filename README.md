@@ -27,11 +27,11 @@ What does that mean?
 
 /_semi-linear_/ We have three linear pathways to follow along with:
 
-1. Research Lab Specific: Motivates the greater TEXTILE work within the context
+1. **Research Lab Specific**: Motivates the greater TEXTILE work within the context
 of the Disease Directed Engineering Lab.
-2. Data Science Specific: The data science fundamentals needed to support the
+2. **Data Science Specific**: The data science fundamentals needed to support the
 end learning goal
-3. Image Processing Specific: The cell segmentation and quantification lessons
+3. **Image Processing Specific**: The cell segmentation and quantification lessons
 
 
 ![Curriculum](/images/curriculum.png)
