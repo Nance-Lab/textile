@@ -14,8 +14,9 @@ inform how we can more effectively treat the diseased brain. In our lab, we take
 a lot of cool immunofluorescent images of brain cells. To better analyze those
 cells, we developed a data science pipeline for cell segmentation and
 quantification. To train others within and outside of our lab to use our cell
-quantification pipeline, we developed TEXTILE! This is the home
-repository for our first TEXTILE course from Summer 2020.
+quantification pipeline, we developed TEXTILE!
+
+This is the home repository for our first TEXTILE course from Summer 2020.
 
 
 See the Publication
