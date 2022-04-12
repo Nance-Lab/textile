@@ -73,10 +73,10 @@ Learning. Computer Aids for Chemical Engineering. Paper # 449d
 How to Use as a Student:
 ===========
 1. Determine starting point: (below are some examples)
-1.1 No coding experience: Start at beginning of Data Science Pathway
-1.2 Coding experience without image processing experience: Skip the data Science
+  1.1 No coding experience: Start at beginning of Data Science Pathway
+  1.2 Coding experience without image processing experience: Skip the data Science
 pathway and begin with the Image Processing Specific Pathway
-1.3 Trainee with the Disease Directed Engineering Lab: Begin with the
+  1.3 Trainee with the Disease Directed Engineering Lab: Begin with the
 Research Lab specific pathway.
 2. Download the repository
 3. Work through the modules in linear order based on the pathways you chose
