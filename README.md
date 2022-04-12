@@ -106,13 +106,20 @@ Teaching Current Modules:
 1. Download the repository and plan to teach the Data Science Specific and
 Image Processing Specific pathways
 2. At least two days before the lesson, send out the pre-module activity
-3. Teaching the module live either by presenting the PPT file in earlier Modules
+3. Teach the module live either by presenting the PPT file in earlier Modules
  or completing a code-along with areas for students to ask questions and explore
  independently
 4. After the lesson, send out the post-module reflection to students
 
 Developing Your Own Curriculum:
 ---
+1. Identify your end goal: We recommend a methodology that produces a data set
+with a large number of features and application variability
+2. Break down your end goal into the basic units needed to learn it (each of
+  these units becomes a module)
+3. Organize the modules by topics (these become the linear pathways)
+4. Follow the "How to Module" Module PPT to explore how to design learning
+objectives and create modules of your own
 
 What's next for us?
 ===========
