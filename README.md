@@ -55,7 +55,7 @@ Engineering Education. _In Press_.
 
 See the Publication
 ===========
-For more information about the Summer 2020 curriculum including student
+1. For more information about the Summer 2020 curriculum including student
 outcomes, learning objectives, and teaching methods, see our publication (Coming
 Soon!):
 
@@ -63,10 +63,10 @@ Helmbrecht H., Nance E. Effective Laboratory Education with TEXTILE:
 Tutorials in EXperimentalisT Interactive LEarning. Journal of Chemical
 Engineering Education. _In Press_.
 
-Check out the published slides from our presentation of TEXTILE at the
+2. Check out the published slides from our presentation of TEXTILE at the
 American Institute for Chemical Engineers (AIChE) 2021 Conference:
 
-&ensp;&ensp; Helmbrecht H., Nance E., Textile: Tutorials in Experimentalist Interactive
+Helmbrecht H., Nance E., Textile: Tutorials in Experimentalist Interactive
 Learning. Computer Aids for Chemical Engineering. Paper # 449d
 (https://cache.org/sites/default/files/449d_2021TeachingDataScience_HelmbrechtNance.pdf)
 
