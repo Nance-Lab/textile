@@ -25,7 +25,13 @@ TEXTILE is a semi-linear, module based learning system!
 
 What does that mean?
 
-/_semi-linear_/ We have three pathways to learn through
+/_semi-linear_/ We have three linear pathways to follow along with:
+
+1. Research Lab Specific: Motivates the greater TEXTILE work within the context
+of the Disease Directed Engineering Lab.
+2. Data Science Specific: The data science fundamentals needed to support the
+end learning goal
+3. Image Processing Specific: The cell segmentation and quantification lessons
 
 
 ![Curriculum](/images/curriculum.png)
