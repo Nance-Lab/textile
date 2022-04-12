@@ -9,14 +9,13 @@ biological perspective.
 What is TEXTILE?
 ===========
 
-As a lab filled with mainly experimentalists, the Nance Lab uses data science
-to enhance our abilities. Because of this, we needed a effective way to train
-our experimentalists in how to use Data Science methods and tools that are most
-applicable to our work. So we started our TEXTILE program! This is the home
-repository for our TEXTILE in Data Science modules :)
-
-Specifically, we have created approachable and accessible modules to teach Data
-Science from a Biological perspective.
+In the Disease Directed Engineering Lab (nancelab.com), we develop tools to
+inform how we can more effectively treat the diseased brain. In our lab, we take
+a lot of cool immunofluorescent images of brain cells. To better analyze those
+cells, we developed a data science pipeline for cell segmentation and
+quantification. To train others within and outside of our lab to use our cell
+quantification pipeline, we developed TEXTILE! This is the home
+repository for our first TEXTILE course from Summer 2020.
 
 
 See the Publication
