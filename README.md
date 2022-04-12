@@ -66,8 +66,12 @@ Engineering Education. _In Press_.
 How to Use as a Student:
 ===========
 
-How to Use as an Instructor - Teaching Current Modules:
+How to Use as an Instructor
 ===========
+
+Teaching Current Modules:
+---
+
 
 How to Use as an Instructor - Developing Your Own Curriculum:
 ===========
