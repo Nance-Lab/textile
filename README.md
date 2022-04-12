@@ -22,13 +22,13 @@ Science from a Biological perspective.
 See the Publication
 ===========
 
-How to use as a student:
+How to Use as a Student:
 ===========
 
-How to use as an instructor wanting to teach our lessons:
+How to Use as an Instructor - Teaching Current Modules:
 ===========
 
-How to use as an instructor wanting to develop your own curriculum:
+How to Use as an Instructor - :
 ===========
 
 What's next for us?
