@@ -18,6 +18,10 @@ quantification pipeline, we developed TEXTILE!
 
 This is the home repository for our first TEXTILE course from Summer 2020.
 
+TEXTILE Curriculum
+===========
+
+![Curriculum](/images/curriculum.png)
 
 See the Publication
 ===========
