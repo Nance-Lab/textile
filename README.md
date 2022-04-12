@@ -55,6 +55,13 @@ Engineering Education. _In Press_.
 
 See the Publication
 ===========
+For more information about the Summer 2020 curriculum including student
+outcomes, learning objectives, and teaching methods, see our publication (Coming
+Soon!):
+
+Helmbrecht H., Nance E. Effective Laboratory Education with TEXTILE:
+Tutorials in EXperimentalisT Interactive LEarning. Journal of Chemical
+Engineering Education. _In Press_.
 
 How to Use as a Student:
 ===========
