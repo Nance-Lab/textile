@@ -72,6 +72,10 @@ Learning. Computer Aids for Chemical Engineering. Paper # 449d
 
 How to Use as a Student:
 ===========
+
+Welcome to TEXTILE! We hope this curriculum can jump start your cell analysis
+work.
+
 1. Determine starting point: (below are some examples)
 
     - No coding experience: Start at beginning of Data Science Pathway
@@ -80,7 +84,10 @@ How to Use as a Student:
 pathway and begin with the Image Processing Specific Pathway
 
     - Trainee with the Disease Directed Engineering Lab: Begin with the
-Research Lab specific pathway.
+Data Science in the Nance Lab module. Then begin the data science specific
+pathway, followed by the image processing specific pathway before doing the
+Research Paper Specific Workflow module back in the Research Lab Specific
+Pathway.
 
 2. Download the repository
 
@@ -88,6 +95,8 @@ Research Lab specific pathway.
 
 How to Use as an Instructor
 ===========
+Welcome to TEXTILE! For instructors we have two pathways to follow: teaching
+Current Modules and Developing Your Own Curriculum.
 
 Teaching Current Modules:
 ---
