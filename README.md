@@ -49,7 +49,7 @@ and skip the data science specific pathway.
 independently.
 
 ![Curriculum](/images/curriculum.png)
-Figure 3. TEXTILE Curriculum. Demonstrates the three educational paths -
+_TEXTILE Curriculum_. Demonstrates the three educational paths -
 Research Lab Specific (purple), Data Science Specific (green), and Image
 Processing Specific (blue). Entry points are displayed as doorways (yellow).
 
