@@ -28,7 +28,7 @@ How to Use as a Student:
 How to Use as an Instructor - Teaching Current Modules:
 ===========
 
-How to Use as an Instructor - :
+How to Use as an Instructor - Developing Your Own Curriculum:
 ===========
 
 What's next for us?
