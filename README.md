@@ -123,7 +123,7 @@ objectives and create modules of your own
 
 What's next for TEXTILE?
 ===========
-Thanks for asking! We are planning an expansion for Summer 2023 which will
+Thanks for asking! We are planning an expansion for Summer 2022 which will
 include:
 1. Recorded lessons of the current curriculum
 2. Machine learning lessons for multiple particle tracking
