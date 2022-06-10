@@ -10,7 +10,7 @@ Welcome to TEXTILE's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   quickstart
+   modules/1_Intro_To_Python.ipynb
 
 Indices and tables
 ==================
