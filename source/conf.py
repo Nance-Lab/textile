@@ -22,7 +22,7 @@ copyright = '2022, Hawley Helmbrecht'
 author = 'Hawley Helmbrecht'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0'
+release = '2.0'
 
 
 # -- General configuration ---------------------------------------------------
